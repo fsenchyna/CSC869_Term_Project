@@ -9,7 +9,7 @@ https://drive.google.com/file/d/1yHQkN2CZ4EYUd-6dYSKSQT8c-37-Jzw4/view?usp=shari
 
 1. To run the code, please add the zipped folder ('beehives.zip') found in the *[link](https://drive.google.com/file/d/1yHQkN2CZ4EYUd-6dYSKSQT8c-37-Jzw4/view?usp=sharing
 )* directly above to your google drive.
-2. Open the code '' in Google Colaboratory.
+2. Open the code 'ProjectBeehive.ipynb' in Google Colaboratory.
 3. To run the code with a GPU (as was done during development), go to 'Edit-> Notebook Settings -> Hardware Accelerator -> GPU' and click save. 
 4. Click on 'Runtime -> Run all' to run the code. 
-5. In the second cell of code, you will be asked to copy and paste a security code in, in order to mount your google drive and to access the images. 
+5. In the second cell of code, you will given a link to connect your google drive to the notebook via a code that must be copied and pasted into the cell. 
